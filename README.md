@@ -3,7 +3,7 @@
 =======
 # My TypeScript Project
 
-This is a simple TypeScript project that serves as an entry point for building TypeScript applications.
+This is a simple backend TypeScript Node.js project that serves as a starting point for building TypeScript applications.
 
 ## Table of Contents
 
@@ -33,9 +33,6 @@ npm start
 
 Make sure to replace `<repository-url>` with the actual URL of your repository.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
 
